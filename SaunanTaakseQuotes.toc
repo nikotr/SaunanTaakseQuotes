@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: SaunanTaakseQuotes
+## Notes: Ei tuu kkontentti kojon streamauksesta kontenttii
+## Author: fabu
+## Version: 0.1
+libs.xml
+teho.lua
+SaunanTaakseQuotes.lua
